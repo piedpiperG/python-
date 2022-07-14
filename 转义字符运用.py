@@ -1,1 +1,0 @@
-print("\npython\nC\nJavaScript")
