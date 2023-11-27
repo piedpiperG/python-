@@ -3,5 +3,9 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/python-" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python-/djangoProject2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python-/djangoProject2/110C_Hotel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python-/neuralnet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python-/software_design" vcs="Git" />
   </component>
 </project>
